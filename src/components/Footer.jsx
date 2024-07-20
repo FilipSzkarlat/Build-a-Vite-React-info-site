@@ -4,8 +4,12 @@ import FacebookIcon from "../assets/FacebookIcon.svg";
 function Footer() {
   return (
     <footer>
-      <img src={GitHubIcon} alt="" />
-      <img src={FacebookIcon} alt="" />
+      <a href="https://github.com/FilipSzkarlat" target="_blank">
+        <img src={GitHubIcon} alt="" />
+      </a>
+      <a href="#">
+        <img src={FacebookIcon} alt="" />
+      </a>
     </footer>
   );
 }

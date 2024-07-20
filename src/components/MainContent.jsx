@@ -3,14 +3,15 @@ function MainContent() {
     <div className="main-content">
       <h2>About</h2>
       <p>
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am a frontend developer with a passion for creating simple solutions
+        and automating daily tasks. I strive to stay up-to-date with security
+        best practices and I am always eager to learn new things.
       </p>
       <h2>Interests</h2>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Sport ninja: kitesurfing, beach volleyball, trial running, snowboaring,
+        surfskating, padel, squash, ping pong, basketball, football. Coffee
+        fanatic.
       </p>
     </div>
   );
